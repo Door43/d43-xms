@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xms:home|Door43 (xms)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xms|d43-xms repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xms/archive/master.zip|d43-xms.zip]]
+
+**Recent Changes**
+{{changes>ns = xms}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xms|Ethnologue data]]
+
